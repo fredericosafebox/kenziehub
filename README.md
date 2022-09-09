@@ -26,4 +26,4 @@ Esse projeto simula uma rede social de desenvolvedores Front-End.
 4- Inicie o servidor local com <b>yarn start</b><br/>
 
 ## Link do Vercell
-https://vercel.com/fredericosafebox/react-entrega-s1-hamburgueria-da-kenzie-fredericosafebox
+https://react-entrega-s2-formulario-de-cadastro-fredericosaf-hdea0b6wn.vercel.app/login
